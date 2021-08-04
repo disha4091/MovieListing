@@ -1,0 +1,21 @@
+.grid-container {
+  display: inline-grid;
+  margin: 5rem;
+}
+.heading {
+  margin-left: 10rem;
+}
+/* Style the Image Used to Trigger the Modal */
+#series {
+  background-image: url("./images/sacredgames.jpg");
+  background-repeat: inherit;
+  padding: 3rem;
+  color: rgb(206, 200, 200);
+}
+body {
+  background-color: aliceblue;
+}
+
+#nav {
+  background-color: rgb(6, 6, 143);
+}
